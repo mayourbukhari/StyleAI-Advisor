@@ -14,7 +14,7 @@ interface StyleRecommendation {
 }
 
 const openai = new OpenAI({
-  apiKey: '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',
+  apiKey: '175d7c1e-cf19-469c-b137-3ed69a0ebda6',
   dangerouslyAllowBrowser: true
 });
 
